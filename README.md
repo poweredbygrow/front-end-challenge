@@ -1,4 +1,4 @@
-# Grow front-end-challenge
+# Grow Front-end Challenge
 
 ## Objective
 Build a user interface to view a list of financial transactions for a user. The user should be able to do the following:
@@ -20,5 +20,5 @@ Build a user interface to view a list of financial transactions for a user. The 
 - Filter transactions by a "from" and "to" date (ex. January 1st 2017 to January 18th 2017)
 - Animations, transitions, other interactivity
 
-### Good luck
+## Good luck
 We wish you the best of luck and can't wait to see what you create!
