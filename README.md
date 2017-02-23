@@ -1,6 +1,7 @@
 <img src="https://www.poweredbygrow.com/assets/img/logo/grow-logo.png" alt="Grow Logo" width="250">
 
-# Grow Front-end Challenge
+
+# Front-end Challenge
 
 ## Objective
 Build a user interface to view a list of financial transactions for a user. The user should be able to do the following:
