@@ -1,4 +1,4 @@
-<img src="https://www.poweredbygrow.com/assets/img/logo/grow-logo.png" alt="Grow Logo" width="250">
+<img src="https://www.poweredbygrow.com/assets/img/logo/grow-logo.png" alt="Grow Logo" width="300">
 
 
 # Front-end Challenge
