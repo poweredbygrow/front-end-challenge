@@ -15,10 +15,9 @@ Build a user interface to view a list of financial transactions for a user. The 
 
 ## API
 `GET http://demo7235469.mockable.io/transactions`
-
 Returns a list of accounts, categories, and transactions.
 
-The response shortened:
+Example response:
 ```JSON
 {
   "accounts": [
@@ -83,7 +82,7 @@ The response shortened:
 
 ## Remarks
 - Feel free to use any boilerplates or frameworks as long as you can explain why you used one.
-- Component based code with a functional approach is preffered.
+- Component based code with a functional approach is preferred.
 - Don't hesitate to ask any questions regarding the challenge.
 
 ## Bonus
