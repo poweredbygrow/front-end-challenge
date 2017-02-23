@@ -15,6 +15,7 @@ Build a user interface to view a list of financial transactions for a user. The 
 
 ## API
 `GET http://demo7235469.mockable.io/transactions`
+
 Returns a list of accounts, categories, and transactions.
 
 The response shortened:
@@ -82,11 +83,18 @@ The response shortened:
 
 ## Remarks
 - Feel free to use any boilerplates or frameworks as long as you can explain why you used one.
+- Component based code with a functional approach is preffered.
 - Don't hesitate to ask any questions regarding the challenge.
 
 ## Bonus
 - Filter transactions by a "from" and "to" date (ex. January 1st 2017 to January 18th 2017)
 - Animations, transitions, other interactivity
+- Unit tests applied to your code
+- Responsive design
+
+## Useful Links
+- [Create React App](https://github.com/facebookincubator/create-react-app]) starter kit
+- [Dribbble transactions UI examples](https://dribbble.com/tags/transactions)
 
 ## Good luck
 We wish you the best of luck and can't wait to see what you create!
