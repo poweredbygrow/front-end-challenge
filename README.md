@@ -39,8 +39,6 @@ The response shortened:
       "balance": 100,
       "balanceUpdated": "2017-02-22"
     }
-    ...
-    }
   ],
   "transactionData": {
     "earliestTransactionDate": "2015-12-12",
@@ -67,8 +65,7 @@ The response shortened:
         "runningBalance": 100,
         "category": "CATEGORY",
         "transactionId": "ID"
-      },
-      ...
+      }
     ]
   },
   "categories": [
