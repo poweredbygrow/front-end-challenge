@@ -1,4 +1,4 @@
-![](https://www.poweredbygrow.com/assets/img/logo/grow-logo.png  | width=100)
+<img src="https://www.poweredbygrow.com/assets/img/logo/grow-logo.png" alt="Grow Logo" width="250">
 
 # Grow Front-end Challenge
 
