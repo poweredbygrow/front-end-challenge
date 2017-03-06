@@ -72,7 +72,7 @@ Example response structure:
     ]
   },
   "categories": [
-    "EXAMPLE".
+    "EXAMPLE",
     "EXAMPLE",
     "EXAMPLE",
     "EXAMPLE",
