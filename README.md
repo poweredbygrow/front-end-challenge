@@ -4,7 +4,9 @@
 # Front-end Challenge
 
 ## Objective
-Build a user interface to view a list of financial transactions for a user. The user should be able to do the following:
+Build a user interface to view a list of financial transactions for a user. Your approach should be user focused with a simple to use interface that displays all the needed information concisely.
+
+The user should be able to do the following:
 
 - See their transactions for multiple accounts under a single list.
 - Filter their transactions by account.
@@ -17,7 +19,8 @@ Build a user interface to view a list of financial transactions for a user. The 
 `GET http://demo7235469.mockable.io/transactions`
 Returns a list of accounts, categories, and transactions.
 
-Example response:
+Example response structure:
+<i>*note the real response will contain proper IDs, numbers, and categories</i>
 ```JSON
 {
   "accounts": [
@@ -69,19 +72,21 @@ Example response:
     ]
   },
   "categories": [
-    "CATEGORY",
-    "CATEGORY",
-    "CATEGORY",
-    "CATEGORY",
-    "CATEGORY",
-    "CATEGORY",
-    "CATEGORY",
+    "EXAMPLE".
+    "EXAMPLE",
+    "EXAMPLE",
+    "EXAMPLE",
+    "EXAMPLE",
+    "EXAMPLE",
+    "EXAMPLE",
+    "EXAMPLE",
   ]
 }
 ```
 
 ## Remarks
-- Feel free to use any boilerplates or frameworks as long as you can explain why you used one.
+- Use this challenge to display your creativity and development skills.
+- Feel free to use any boilerplates or frameworks as long as you can explain why you used one. If you have your own proejcts or starter kits feel free to use them.
 - Component based code with a functional approach is preferred.
 - Don't hesitate to ask any questions regarding the challenge.
 
@@ -93,7 +98,7 @@ Example response:
 
 ## Useful Links
 - [Create React App](https://github.com/facebookincubator/create-react-app]) starter kit
-- [Dribbble transactions UI examples](https://dribbble.com/tags/transactions)
+- [Dribbble transactions UI examples](https://dribbble.com/tags/transactions) for inspiration
 
 ## Good luck
 We wish you the best of luck and can't wait to see what you create!
