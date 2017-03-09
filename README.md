@@ -3,7 +3,7 @@
 
 # Front-end Challenge
 
-## Objective
+## Functional requirements
 Build a user interface to view a list of financial transactions for a user. Your approach should be user focused with a simple to use interface that displays all the needed information concisely.
 
 The user should be able to do the following:
@@ -15,9 +15,14 @@ The user should be able to do the following:
 - See their total balance across all accounts.
 - Reset all applied filters.
 
+## Non-functional requirements
+
+- Your code should be a hosted on Github with periodic commits instead of one large commit. Make sure your commit messages are clear and understandable.
+- The UI should be nicely designed and easy to use
+
 ## API
 `GET http://demo7235469.mockable.io/transactions`
-Returns a list of accounts, categories, and transactions.
+Returns a list of accounts, categories, and transactions. Use this data to construct your UI. We recommend spending a few minutes analyzing the returned data before writing code.
 
 ## Remarks
 - Use this challenge to display your creativity and development skills.
@@ -25,7 +30,7 @@ Returns a list of accounts, categories, and transactions.
 - Component based code with a functional approach is preferred.
 - Don't hesitate to ask any questions regarding the challenge.
 
-## Bonus
+## Bonus (optional)
 - Filter transactions by a "from" and "to" date (ex. January 1st 2017 to January 18th 2017)
 - Animations, transitions, other interactivity
 - Unit tests applied to your code
