@@ -26,7 +26,7 @@ Returns a list of accounts, categories, and transactions. Use this data to const
 
 ## Remarks
 - Use this challenge to display your creativity and development skills.
-- Feel free to use any boilerplates or frameworks as long as you can explain why you used one. If you have your own proejcts or starter kits feel free to use them.
+- Feel free to use any boilerplates or frameworks as long as you can explain why you used one. If you have your own projects or starter kits feel free to use them.
 - Component based code with a functional approach is preferred.
 - Don't hesitate to ask any questions regarding the challenge.
 
