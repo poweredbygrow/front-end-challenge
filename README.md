@@ -18,11 +18,23 @@ The user should be able to do the following:
 ## Non-functional requirements
 
 - Your code should be a hosted on Github with periodic commits instead of one large commit. Make sure your commit messages are clear and understandable.
-- The UI should be nicely designed and easy to use
+- The UI should look good and be easy to use.
 
 ## API
-`GET http://demo7235469.mockable.io/transactions`
-Returns a list of accounts, categories, and transactions. Use this data to construct your UI. We recommend spending a few minutes analyzing the returned data before writing code.
+### Transactions
+Returns a list of aggregate transactions that belong to _multiple_ accounts.
+`GET http://demo1124891.mockable.io/transactions` 
+
+### Accounts
+Returns a list of accounts.
+`GET https://demo1124891.mockable.io/accounts`
+
+### Categories
+Returns a list of all possible categories a transaction can have.
+`GET http://demo1124891.mockable.io/categories`
+
+
+Use this data to construct your UI. We recommend spending a few minutes analyzing the returned data before writing code.
 
 ## Remarks
 - Use this challenge to display your creativity and development skills.
