@@ -28,7 +28,7 @@ Returns a list of aggregate transactions that belong to _multiple_ accounts.
 
 
 ### Accounts
-Returns a list of accounts.
+Returns a list of accounts that those transactions in the above endpoint are from.
 
 `GET https://demo1124891.mockable.io/accounts`
 
