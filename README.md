@@ -23,14 +23,19 @@ The user should be able to do the following:
 ## API
 ### Transactions
 Returns a list of aggregate transactions that belong to _multiple_ accounts.
+
 `GET http://demo1124891.mockable.io/transactions` 
+
 
 ### Accounts
 Returns a list of accounts.
+
 `GET https://demo1124891.mockable.io/accounts`
+
 
 ### Categories
 Returns a list of all possible categories a transaction can have.
+
 `GET http://demo1124891.mockable.io/categories`
 
 
